@@ -2,9 +2,9 @@
 
 This repository contains a collection of Homebrew (aka, Brew) "formulae".
 
-# Install
+## Install
 
 ```bash
-> brew tap rel-me/tap
-> brew install rel-me/tap/keyup
+> brew tap keys-pub/tap
+> brew install keys-pub/tap/keys
 ```
