@@ -1,9 +1,8 @@
 cask 'keys' do
-    version '0.0.17'
-    sha256 '0a74dded6ece86a768be66601f6e8ddab612e905ad806a9c94827b25c7cb1f50'
+    version '0.0.20'
+    sha256 '5d0cd801e47e65ea7f3a40de637ee5c0aeecda756426d1f151d34465628fa037'
   
     url "https://github.com/keys-pub/app/releases/download/v#{version}/Keys-#{version}-mac.zip"
-    appcast 'https://github.com/keys-pub/app/releases.atom'
     name 'Keys'
     homepage 'https://keys.pub'
 
