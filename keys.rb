@@ -2,12 +2,12 @@
 class Keys < Formula
   desc ""
   homepage "https://keys.pub"
-  version "0.0.32"
+  version "0.0.33"
   bottle :unneeded
 
   if OS.mac?
-    url "https://github.com/keys-pub/keysd/releases/download/v0.0.32/keys_0.0.32_darwin_x86_64.tar.gz"
-    sha256 "645b45e35a510677acc2fbd77d72673bba6c1ec4d2bc3e540b5115996416c074"
+    url "https://github.com/keys-pub/keysd/releases/download/v0.0.33/keys_0.0.33_darwin_x86_64.tar.gz"
+    sha256 "2d36ab240a4b83ae0bc2b647302626def947d34bd6bcd5edf1f9b32809012984"
   elsif OS.linux?
   end
 
