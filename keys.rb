@@ -14,5 +14,6 @@ class Keys < Formula
   def install
     bin.install "keys"
     bin.install "keysd"
+    bin.install "fido2.so"
   end
 end
