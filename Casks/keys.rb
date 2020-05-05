@@ -1,8 +1,8 @@
 cask 'keys' do
-    version '0.0.38'
-    sha256 '322f95bd190f407a91d8235633d9560768c5386b6fff1090c472b6625e697076'
+    version '0.0.39-rc1'
+    sha256 '0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5'
 
-    url "https://github.com/keys-pub/app/releases/download/v0.0.38/Keys-0.0.38-mac.zip"
+    url "https://github.com/keys-pub/app/releases/download/v0.0.39-rc1/Keys-0.0.39-rc1-mac.zip"
     name 'Keys'
     homepage 'https://keys.pub'
 
