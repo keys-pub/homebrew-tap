@@ -7,7 +7,7 @@ class Keys < Formula
 
   if OS.mac?
     url "https://github.com/keys-pub/keysd/releases/download/v0.0.40/keys_0.0.40_darwin_x86_64.tar.gz"
-    sha256 "2216520c3c56ffd69e236b2826379bc66334ba6beeba7ec055c942b6cd0ac16c"
+    sha256 "8eb36e5b87a0f8aa080badafe7b1c4382181fb58fae040bc99b80476b750ffd3"
   elsif OS.linux?
   end
 
