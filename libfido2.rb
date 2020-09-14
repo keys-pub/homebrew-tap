@@ -1,8 +1,8 @@
 class Libfido2 < Formula
     desc "Provides library functionality for FIDO U2F & FIDO 2.0, including USB"
     homepage "https://developers.yubico.com/libfido2/"
-    url "https://github.com/keys-pub/libfido2/archive/1.5.1.tar.gz"
-    sha256 "5dae88011aca0f123b2fed031db887f8e6ee2b7d4b48d84e415ee1ce5f801ac9"
+    url "https://github.com/keys-pub/libfido2/archive/1.5.0_hidosxfix.tar.gz"
+    sha256 "a4e64c38c85ac368ec735afa0d654b0e1097e94e4b907e0396a9a2db0fa1890a"
     license "BSD-2-Clause"    
       
     depends_on "cmake" => :build
