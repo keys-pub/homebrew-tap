@@ -2,7 +2,6 @@ class Keys < Formula
   desc "Key management"
   homepage "https://keys.pub"
   version "0.2.4"
-  bottle :unneeded
   
   if OS.mac?
     url "https://github.com/keys-pub/keys-ext/releases/download/v0.2.4/keys_0.2.4_darwin_x86_64.tar.gz"
